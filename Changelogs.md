@@ -9,7 +9,7 @@
 # Aimbot Type:
 **Btw your exploit needs to support mousemoverel**
 
-- Prediction Aimbot **Just a normal position**
+- Normal Aimbot **Just a normal position**
 - Prediction Aimbot **Locks onto the target of their body through using position of your character and your target character and the prediction and bullet drop**
 
 # Silent Aim
@@ -26,5 +26,3 @@
 # Settings
 - Fullbright **gosh man it's really dark in this place can't even see a thing turn this on man you see day as bright**
 - Enable Chat **Soo you can see the chat to see people's reaction or etc**
-
-- Legit Anti Aim Distance **The distance to your player and you soo it will anti aim**
